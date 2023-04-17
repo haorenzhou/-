@@ -8,7 +8,7 @@ description: %ACTOR%'s navigation site
 favicon: "https://github.com/%ACTOR%.png?size=40"
 
 # your website url
-url: https://%ACTOR%.github.io/%NAME%/
+url: https://haorenzhou.github.io/dlawhub-tools/
 
 # github profile url
 github: "https://github.com/%ACTOR%"
